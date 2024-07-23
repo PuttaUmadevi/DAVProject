@@ -1,1 +1,1 @@
-# DAVProject
+This project predicts house prices in Bengaluru using a Kaggle dataset. It involves exploratory data analysis (EDA) and visualization to understand price determinants. A linear regression model was developed to estimate property values accurately. The project provides insights into pricing trends and factors affecting house prices.
